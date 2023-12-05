@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaron Vansteenkiste - CV</title>
+    <link rel="stylesheet" href="./assets/styles/darkstyle.css" id="dark-mode-css" disabled>
+    <link rel="stylesheet" href="./assets/styles/style.css" id="light-mode-css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+
+<body>
+    <header class="header-slim">
+        <nav id="navbar">
+            <a href="/" class="logo">YV</a>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="./projecten.html">Projecten</a></li>
+                <li><a href="./cv.html">Over Mij</a></li>
+                <li><a href="./werkplekleren.html">Stages</a></li>
+                <li><a class="active" href="./contact.html">- Contact -</a></li>
+            </ul>
+            <button class="dark-mode-btn" onclick="toggleDarkMode()">
+                <i id="dark-mode-toggler" class="ri-sun-fill dark-mode-icon"></i>
+            </button>
+        </nav>
+    </header>
+    <main>
+        <h1>Contact</h1>
+        <form action="./post-demo.php" method="POST">
+            <label for="Voornaam">Voornaam:</label>
+            <input type="text" id="Voornaam" name="Voornaam" required><br><br>
+            
+            <label for="Familienaam">Familienaam:</label>
+            <input type="text" id="Familienaam" name="Familienaam" required><br><br>
+            
+            <label for="E-mail">E-mail:</label>
+            <input type="email" id="E-mail" name="E-mail" required><br><br>
+            
+            <label for="Type-vraag">Soort vraag:</label>
+            <select id="Type-vraag" name="Type-vraag">
+              <option value="Algemeen">Algemeen</option>
+              <option value="Technisch">Technisch</option>
+              <option value="Facturatie">Facturatie</option>
+            </select><br><br>
+            
+            <label for="Vraag">Uw vraag:</label>
+            <textarea id="Vraag" name="Vraag" rows="4" required></textarea><br><br>
+            
+            <label for="Nieuwsbrief">Inschrijven voor de Nieuwsbrief:</label>
+            <input type="checkbox" id="Nieuwsbrief" name="Nieuwsbrief" value="Ja">
+            
+            <br><br>
+            <button type="submit">Verzenden</button>
+          </form>
+    </main>
+
+    <footer>
+        <p>© 2023 Yaron Vansteenkiste.</p>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/yaron-vansteenkiste/" target="_blank"><i class="ri-linkedin-box-fill"></i> LinkedIn</a>
+            <a href="https://www.instagram.com/yaronvsk/" target="_blank"><i class="ri-instagram-fill"></i> Instagram</a>
+            <a href="https://github.com/YaronVansteenkiste" target="_blank"><i class="ri-github-fill"></i> GitHub</a>
+        </div>
+        <div class="contact-info">
+            <p>Email: yaron.vansteenkiste@outlook.com</p>
+            <p>Phone: +32 0476 72 50 06</p>
+        </div>
+        <div class="site-links">
+            <a href="/">Home</a>
+            <a href="/projecten.html">Projecten</a>
+            <a href="/cv.html">Over Mij</a>
+            <a href="/werkplekleren.html">Stages</a>
+            <a href="/contact.html">Contact</a>
+        </div>
+    </footer>
+</body>
+<script src="./assets/scripts/darkmode.js"></script>
+<script src="./assets/scripts/navscroll.js"></script>
+
+</html>
