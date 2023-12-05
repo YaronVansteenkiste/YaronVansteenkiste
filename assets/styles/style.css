@@ -261,7 +261,7 @@ button {
 }
 
 .icons {
-  position: `absolute;
+  position: absolute;
   top: 50%;
   padding: 0 5%;
   font-size: 2em;
@@ -298,6 +298,28 @@ button {
 .navbar-scrolled {
   backdrop-filter: blur(8px) brightness(0.7);
   transition: all .50s ease;
+}
+
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-links li {
+  margin: 0 10px;
+}
+
+.hamburger-icon {
+  display: none; 
+  cursor: pointer;
+  color: white;
+  font-size: 1.5em;
+  box-shadow: none;
+  border: none;
 }
 
 .active {
@@ -409,9 +431,6 @@ button {
     padding: 10px; 
   }
 
-  nav ul li {
-    margin-left: 5px; 
-  }
 
   .icons {
     display: none;
@@ -436,4 +455,27 @@ button {
   .project-section {
     grid-template-columns: auto;
   }
+
+  .nav-links-active { 
+    display: none;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    position: fixed;
+    top: 60px;
+    right: 0;
+    width: 50%;
+    background-color: #6896c7;
+    height: 90vh;
+    margin-top: 45px;
+}
+
+.nav-links.show {
+    display: flex; 
+}
+
+.hamburger-icon {
+    display: block; 
+}
 }
