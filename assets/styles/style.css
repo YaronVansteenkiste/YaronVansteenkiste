@@ -320,10 +320,19 @@ button {
   font-size: 1.5em;
   box-shadow: none;
   border: none;
+  background: none !important;
 }
 
 .active {
   font-weight: bolder;
+}
+
+.active::before {
+  content: ' - ';
+}
+
+.active::after {
+  content: ' - '
 }
 
 
@@ -456,24 +465,29 @@ button {
     grid-template-columns: auto;
   }
 
-  .nav-links-active { 
-    display: none;
-  }
 
+  .nav-links-inactive {
+    width: 0%;
+    transition: width 2s ease;
+  }
+  
   .nav-links {
     flex-direction: column;
     position: fixed;
     top: 60px;
+    width: 0%;
     right: 0;
-    width: 50%;
+    padding: 20px;
     background-color: #6896c7;
-    height: 90vh;
+    height: 85vh;
     margin-top: 45px;
-}
-
-.nav-links.show {
-    display: flex; 
-}
+    transition: all 0.5s ease;
+  }
+  
+  .nav-links-active {
+    width: 100%; 
+  }
+  
 
 .hamburger-icon {
     display: block; 

@@ -17,15 +17,20 @@
     <header>
         <nav id="navbar">
             <a href="/" class="logo">YV</a>
-            <ul>
-                <li><a class="active" href="/"><b>- Home -</b></a></li>
+            <ul class="nav-links">
+                <li><a class="active" href="/">Home</a></li>
                 <li><a href="./projecten.html">Projecten</a></li>
                 <li><a href="./cv.html">Over Mij</a></li>
                 <li><a href="./werkplekleren.html">Stages</a></li>
                 <li><a href="./contact.html">Contact</a></li>
             </ul>
-            <button class="dark-mode-btn" onclick="toggleDarkMode()"><i id="dark-mode-toggler"
-                    class="ri-sun-fill dark-mode-icon"></i></button>
+            
+            <button class="dark-mode-btn" onclick="toggleDarkMode()">
+                <i id="dark-mode-toggler" class="ri-sun-fill dark-mode-icon"></i>
+            </button>
+            <button class="hamburger-icon" onclick="toggleMobileMenu()">
+                <i class="ri-menu-line"></i>
+            </button>
         </nav>
         <article class="title-text">
             <h3><em>Student Graduaat Programmeren</em></h3>
@@ -135,5 +140,6 @@
 <script src="./assets/scripts/typeanimatie.js"></script>
 <script src="./assets/scripts/darkmode.js"></script>
 <script src="./assets/scripts/navscroll.js"></script>
+<script src="./assets/scripts/hamburger.js"></script>
 
 </html>
