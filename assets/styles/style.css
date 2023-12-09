@@ -467,8 +467,8 @@ button {
 
 
   .nav-links-inactive {
-    width: 0%;
     transition: width 2s ease;
+    padding: 0px;
   }
   
   .nav-links {
@@ -477,7 +477,7 @@ button {
     top: 60px;
     width: 0%;
     right: 0;
-    padding: 20px;
+    padding: 0px;
     background-color: #6896c7;
     height: 85vh;
     margin-top: 45px;
@@ -486,6 +486,8 @@ button {
   
   .nav-links-active {
     width: 100%; 
+    padding: 20px;
+
   }
   
 

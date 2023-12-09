@@ -1,39 +1,49 @@
+html {
+  color: #ebebeb !important;
+  background-color: #0d112b !important;
+}
 
-  html {
-    color: #ebebeb !important; 
-    background-color: #0d112b !important; 
-  }
+header {
+  background: #15205c !important;
+  background: linear-gradient(69deg, #15205c 0%, #33163a 54%, #080a19 0%) !important;
+}
 
-  header {
-    background: #15205c !important;
-    background: linear-gradient(69deg, #15205c 0%, #33163a 54%, #080a19 0%) !important;
-  }
-  
-  p {
-    color: #ebebeb !important; 
-  }
-  
-  footer {
-    background-color: #080a19 !important; 
-  }
+p {
+  color: #ebebeb !important;
+}
 
-  article p a {
-    color: #7a89dd;
-  }
+footer {
+  background-color: #080a19 !important;
+}
+
+article p a {
+  color: #7a89dd;
+}
 
 
-  .email-btn {
+.email-btn {
+  background-color: #1f0d23 !important;
+}
+
+.contact-btn {
+  background-color: #7a89dd !important;
+}
+
+
+.cv-down-btn:hover,
+.project-title:hover,
+form button:hover {
+  background: #6774bd !important;
+}
+
+.cv-down-btn,
+.project-title,
+form button {
+  background: #7a89dd !important;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
     background-color: #1f0d23 !important;
   }
-  .contact-btn {
-    background-color: #7a89dd !important;
-  }
-  
-
-  .cv-down-btn:hover, .project-title:hover, form button:hover {
-    background: #6774bd !important;
-  }
-
-  .cv-down-btn, .project-title, form button {
-    background: #7a89dd !important;
-  }
+}
