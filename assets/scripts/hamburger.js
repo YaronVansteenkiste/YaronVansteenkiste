@@ -5,7 +5,10 @@ function toggleMobileMenu() {
     
     if (navLinks.classList.contains('nav-links-active')) {
         navLinks.classList.remove('nav-links-inactive');
+        document.body.style.overflow = 'hidden';
+
     } else {
         navLinks.classList.remove('nav-links-active');
+        document.body.style.overflow = 'visible';
     }
 }

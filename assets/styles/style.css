@@ -122,7 +122,6 @@ p {
 footer {
   background-color: #222;
   padding: 20px;
-  height: 20vh;
   margin-top: 200px;
   text-align: center;
 }
@@ -296,7 +295,8 @@ button {
 }
 
 .navbar-scrolled {
-  backdrop-filter: blur(8px) brightness(0.7);
+  backdrop-filter: blur(8px);
+  background: rgba(0, 0, 0, 0.407);
   transition: all .50s ease;
 }
 
@@ -474,7 +474,7 @@ button {
   .nav-links {
     flex-direction: column;
     position: fixed;
-    top: 57px;
+    top: 50px;
     width: 0%;
     right: 0;
     padding: 0px;

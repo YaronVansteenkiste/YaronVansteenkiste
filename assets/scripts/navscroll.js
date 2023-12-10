@@ -7,6 +7,7 @@ const scrollOffset = 20;
 window.addEventListener('scroll', () => {
     if (window.scrollY > scrollOffset) {
         navbar.classList.add('navbar-scrolled');
+        // disable scroll
     } else {
         navbar.classList.remove('navbar-scrolled');
     }
