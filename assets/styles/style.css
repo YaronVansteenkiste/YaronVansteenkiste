@@ -305,7 +305,7 @@ button {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .nav-links li {
@@ -481,13 +481,12 @@ button {
   .nav-links {
     flex-direction: column;
     position: fixed;
-    top: 50px;
+    top: 91px;
     width: 0%;
     right: 0;
     padding: 0px;
     background-color: #6896c7;
-    height: calc(100vh - 81px);
-    margin-top: 45px;
+    height: calc(100vh - 91px); 
     transition: all 0.5s ease;
   }
   
