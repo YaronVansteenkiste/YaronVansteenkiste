@@ -433,6 +433,7 @@ button {
 
   main {
     margin-left: 0; 
+    padding: 21px;
   }
 
   nav {
@@ -443,8 +444,12 @@ button {
     padding: 0px; 
   }
 
-  article {
-    margin-bottom: 20px;
+  article p {
+    margin-bottom: 40px;
+  }
+
+  figure {
+    margin-bottom: 35px;;
   }
 
 
