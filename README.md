@@ -3,7 +3,7 @@
 I'm a full stack web developer from Belgium currently studying at Thomas More University. I primarily work with ReactJS, NodeJS, and Spring MVC.
 
 ## Tech Stack:
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%2309132a&badge=%23ff0000&border=%23d1cbcb&titleColor=%23191232&line1=Spring%2CSpring%2C7cff72%3B.net%2C.net%2C1721ed%3BNode.js%2CNode.js%2C5dfa0f%3BBackbone.js%2CBackbone.js%2Cef0a0a%3BReact%2CReact%2C6f67da%3BBootstrap%2CBootstrap%2C3e11e5%3BJQuery%2CJQuery%2Cbb7420%3BElectron%2CElectron%2C5f6aeb%3BMongoDB%2CMongoDB%2C09fb1c%3BPostgreSQL%2CPostgreSQL%2C2ad337%3BJava%2CJava%2C4749f0%3BJavascript%2CJavascript%2Cceeb1a%3B)
+(https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack%3A&align=center&fontFamily=&lineCount=3&width=1000&line1=Javascript%2CJavascript%2Cb1d951%3BJava%2CJava%2C5a86e7%3BTypescript%2CTypescript%2C7c50d5%3BCSharp%2CCSharp%2C2e49a0%3BCSS3%2CCSS3%2C6592e7%3BHTML5%2CHTML5%2Cbf5917%3BDart%2CDart%2C433caa%3B&line2=Spring%2CSpring%2C61ae6a%3BNode.js%2CNode.js%2C70e75c%3BReact%2CReact%2C291f6a%3BReact+Native%2CReact+Native%2C181f3f%3BFlutter%2CFlutter%2C3f77b9%3BBootstrap%2CBootstrap%2C545ad7%3BJQuery%2CJQuery%2C3fc079%3BElectron%2CElectron%2C3851a3%3B&line3=MongoDB%2CMongoDB%2C32b833%3BPostgreSQL%2CPostgreSQL%2C3f2574%3B)
 
 ## Find Me Online
 
