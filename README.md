@@ -14,3 +14,8 @@ I'm a full stack web developer from Belgium currently studying at Thomas More Un
 - [LinkedIn](https://www.linkedin.com/in/yaron-vansteenkiste/)
 
 Feel free to connect with me! 😊
+
+
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaronVansteenkiste)](https://github.com/anuraghazra/github-readme-stats)
