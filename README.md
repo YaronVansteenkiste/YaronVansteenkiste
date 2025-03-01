@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Yaron! 👋</h1>
 
-- 🔶 I'm a passionate full-stack web developer and security engineer based in Belgium, currently studying at Thomas More University.
+- 🔶 I'm a passionate full-stack web developer and designer based in Belgium, currently studying at Thomas More University.
 - 🔷 I'm currently immersed in various projects exploring the realms of React, Node.JS and Spring.
 - 🔶 I'm open to collaborating on full-stack or front-end projects, so if you're looking for a coding buddy, count me in!
 - 🔶 My heart beats for Javascript and Java, and I love bringing ideas to life with these technologies.
