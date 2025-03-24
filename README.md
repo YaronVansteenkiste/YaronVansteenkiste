@@ -8,7 +8,11 @@
 - 🔶 My heart beats for Javascript and Java, and I love bringing ideas to life with these technologies.
 - 🔷 I thrive on learning and growing every single day, it's my secret to success!
 
-![snake gif](https://github.com/YaronVansteenkiste/YaronVansteenkiste/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h2 align="center">Tech Stack:</h2>
 
