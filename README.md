@@ -2,15 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BA2C&width=435&lines=Hi+there%2C+I'm+Yaron!+%F0%9F%91%8B" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YaronVansteenkiste/YaronVansteenkiste/main/wave.gif" width="150px" />
-</p>
-
 - 🔶 I'm a passionate full-stack web developer and designer based in Belgium, currently studying at Thomas More University.
 - 🔷 I'm currently immersed in various projects exploring the realms of React, Node.JS and Spring.
 - 🔶 I'm open to collaborating on full-stack or front-end projects, so if you're looking for a coding buddy, count me in!
 - 🔶 My heart beats for Javascript and Java, and I love bringing ideas to life with these technologies.
 - 🔷 I thrive on learning and growing every single day, it's my secret to success!
+
+![snake gif](https://github.com/YaronVansteenkiste/YaronVansteenkiste/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
