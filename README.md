@@ -12,7 +12,7 @@
 - 🔶 My heart beats for Javascript and Java, and I love bringing ideas to life with these technologies.
 - 🔷 I thrive on learning and growing every single day, it's my secret to success!
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YaronVansteenkiste/YaronVansteenkiste/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Tech Stack:</h2>
 
