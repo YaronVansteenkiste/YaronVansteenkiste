@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BA2C&width=435&lines=Hi+there%2C+I'm+Yaron!+%F0%9F%91%8B" alt="Typing Animation" />
-</h1>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Hi+there%2C+I'm+Yaron!" alt="Typing Animation" />
+
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/c8f4aee6be933b329f8460e341dc83de8bcdc33d2dbec29cc8e4bb8019a6de3c/68747470733a2f2f696d616765732e656d6f6a6974657272612e636f6d2f676f6f676c652f6e6f746f2d656d6f6a692f756e69636f64652d31352f616e696d617465642f31663638302e676966" style="width:100px;"/>
+</div>
 
 - 🚀 I'm a passionate full-stack web developer and designer based in Belgium, currently studying at Thomas More University.
 - 🌌 I'm currently immersed in various projects exploring the realms of React, Node.JS, and Spring.
