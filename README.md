@@ -2,11 +2,11 @@
 
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c8f4aee6be933b329f8460e341dc83de8bcdc33d2dbec29cc8e4bb8019a6de3c/68747470733a2f2f696d616765732e656d6f6a6974657272612e636f6d2f676f6f676c652f6e6f746f2d656d6f6a692f756e69636f64652d31352f616e696d617465642f31663638302e676966" style="width:100px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100px;"/>
 </div>
 
-- 🚀 I'm a passionate full-stack web developer and designer based in Belgium, currently studying at Thomas More University.
-- 🌌 I'm currently immersed in various projects exploring the realms of React, Node.JS, and Spring.
+- 🚀 I'm a passionate full-stack web developer and security engineer based in Belgium, currently working at Netleaf NV.
+- 🌌 I'm immersed in various projects exploring the realms of React, Node.JS, and Spring.
 - 👾 I'm open to collaborating on full-stack or front-end projects, so if you're looking for a coding buddy, count me in!
 - 🌠 My heart beats for JavaScript and Java, and I love bringing ideas to life with these technologies.
 - 🌙 I thrive on learning and growing every single day; it's my secret to success!
