@@ -1,8 +1,7 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Hi+there%2C+I'm+Yaron!" alt="Typing Animation" />
 
-
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
 - 🚀 I'm a passionate full-stack web developer and security engineer based in Belgium, currently working at Netleaf NV.
@@ -36,6 +35,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YaronVansteenkiste&style=for-the-badge&color=blueviolet" alt="Profile Views Counter" />
 </p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
