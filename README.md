@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="400" height="400" />
 </div>
 
-- 🚀 I'm a passionate full-stack web developer and security engineer based in Belgium, currently working at Netleaf NV.
+- 🚀 I'm a passionate DevOps engineer based in Belgium.
 - 🌌 I'm immersed in various projects exploring the realms of React, Node.JS, and Spring.
 - 👾 I'm open to collaborating on full-stack or front-end projects, so if you're looking for a coding buddy, count me in!
 - 🌠 My heart beats for JavaScript and Java, and I love bringing ideas to life with these technologies.
